@@ -40,4 +40,4 @@ Tüm olası hatalı durumlar için bir hata işlemleri çıktıları çalışmak
 Error hata durumlarının kontrolleri öncelikle dosya işlemi ile sonrasında comment işlemleri, string const değer tanımlamalarında ve daha sonrasında state tanımlama atama durumları ile devam etmekte son olarakta loop işlem block kontrolleri ile bitmektedir.
 
 # Shortcomings
-Gerçekleştirilen kod yapısında garbage collection işlemleri gerçekleştirilmemiştir, program yapısı daha fonksiyonel tanımlanabilinir, gerçekleştirilen mapping işlemleri daha da sadeleştirilebilinir. İlerleyen zamanlarda düzenlemeyi düşünmekteyim.
+Gerçekleştirilen kod yapısında garbage collection işlemleri gerçekleştirilmemiştir, program yapısı daha fonksiyonel tanımlanabilinir, gerçekleştirilen mapping işlemleri daha da sadeleştirilebilinir.
